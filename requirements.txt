@@ -1,0 +1,6 @@
+streamlit
+time
+numpy
+pandas
+pydub
+SpeechRecognition
